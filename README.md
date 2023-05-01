@@ -22,6 +22,8 @@ This is a command line program that lets you hide secret messages in PNG files. 
 3. Remove a message from a PNG file
 4. Print a list of PNG chunks that can be searched for messages
 
+实现详情可查看 https://lyntny4n.github.io/post/pngme/
+
 ## 用法 Usuge
 
 ```bash
