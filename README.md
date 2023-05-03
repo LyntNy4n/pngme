@@ -24,7 +24,7 @@ This is a command line program that lets you hide secret messages in PNG files. 
 
 实现详情可查看 https://lyntny4n.github.io/post/pngme/
 
-## 用法 Usuge
+## 用法 Usage
 
 ```bash
 # add a custom chunk in dice.png
